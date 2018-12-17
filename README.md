@@ -17,4 +17,4 @@ L298D Module
 
 Approx Budget : under INR 1200/-
 
-all component availble on iotwebplanet.com
+all component availble on   https://iotwebplanet.com
